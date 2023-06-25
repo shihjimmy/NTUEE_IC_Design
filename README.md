@@ -1,5 +1,3 @@
-# NTUEE_IC_Design_2022
-IC Design course 2022 Fall 
 ## hw1  
 several exercises to make yourself familiar with basic IC design knowledge
 ## hw2
